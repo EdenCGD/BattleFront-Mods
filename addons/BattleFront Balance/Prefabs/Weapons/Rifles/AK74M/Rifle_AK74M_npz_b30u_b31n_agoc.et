@@ -1,0 +1,18 @@
+GenericEntity : "{DE08E24A94CF2D54}Prefabs/Weapons/Rifles/AK74M/Rifle_AK74M_npz_b30u_b31n_tgpa.et" {
+ ID "CFBAA4B725411E45"
+ components {
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    MuzzleComponent "{CA6BE4D6B867541F}" {
+     components {
+      AttachmentSlotComponent "{4E2B66CBA589F625}" {
+       AttachmentSlot InventoryStorageSlot Muzzle {
+        Prefab "{DEBB01A41488DFF8}Prefabs/Weapons/Attachments/Muzzle/RHS_6P20_0_20.et"
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,8 @@
+GameProject {
+ ID "BattleFrontRuha"
+ GUID "65F1156E23F26462"
+ TITLE "BattleFront Ruha"
+ Dependencies {
+  "653CB36244ADBE0F" "64610AFB74AA9842" "65C66D937EC87E3E" "58D0FB3206B6F859"
+ }
+}

@@ -1,0 +1,177 @@
+$grp GenericEntity : "{1391CE8C0E255636}Prefabs/Systems/MilitaryBase/ConflictMilitaryBase.et" {
+ BaseOjalankyla {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+    m_sBaseName "Ojalankyla"
+    m_sBaseNameUpper "OJALANKYLA"
+    m_sMapLocationName "Ojalankyla"
+    m_aWhiteList {
+     "Hietalanmaki" "Main Base Southwest"
+    }
+    m_aWhiteListAntenna {
+     "Hietalanmaki" "Main Base Southwest"
+    }
+   }
+   SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 5000
+     }
+    }
+   }
+  }
+  coords 2279.696 68.596 2696.751
+  angleY 126.825
+ }
+ BaseHietalanmaki {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+    m_sBaseName "Hietalanmaki"
+    m_sBaseNameUpper "HIETALANMAKI"
+    m_sMapLocationName "Hietalanmaki"
+    m_aWhiteList {
+     "Hyyppa" "Ojalankyla"
+    }
+    m_aWhiteListAntenna {
+     "Hyyppa" "Ojalankyla"
+    }
+   }
+   SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 5000
+     }
+    }
+   }
+  }
+  coords 2947.331 72.875 3439.515
+  angleY 124.45
+ }
+ BaseHyyppa {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+    m_sBaseName "Hyyppa"
+    m_sBaseNameUpper "HYYPPA"
+    m_sMapLocationName "Hyyppa"
+    m_aWhiteList {
+     "Ruha" "Hietalanmaki"
+    }
+    m_aWhiteListAntenna {
+     "Ruha" "Hietalanmaki"
+    }
+   }
+   SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 5000
+     }
+    }
+   }
+  }
+  coords 2696.395 61.35 4350.668
+  angleY -100.55
+ }
+ BaseRuha {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+    m_sBaseName "Ruha"
+    m_sBaseNameUpper "RUHA"
+    m_sMapLocationName "Ruha"
+    m_aWhiteList {
+     "Muilunkyla" "Hyyppa"
+    }
+    m_aWhiteListAntenna {
+     "Muilunkyla" "Hyyppa"
+    }
+   }
+   SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 5000
+     }
+    }
+   }
+  }
+  coords 4267.919 53.87 4551.683
+  angleY 49.45
+ }
+ BaseMuilunkyla {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+    m_sBaseName "Muilunkyla"
+    m_sBaseNameUpper "MUILUNKYLA"
+    m_sMapLocationName "Muilunkyla"
+    m_aWhiteList {
+     "Latvamuilu" "Ruha"
+    }
+    m_aWhiteListAntenna {
+     "Latvamuilu" "Ruha"
+    }
+   }
+   SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 5000
+     }
+    }
+   }
+  }
+  coords 5005.682 55.78 4222.525
+  angleY 79.452
+ }
+ BaseLatvamuilu {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+    m_sBaseName "Latvamuilu"
+    m_sBaseNameUpper "LATVAMUILU"
+    m_sMapLocationName "Latvamuilu"
+    m_aWhiteList {
+     "Ruhanpera" "Muilunkyla"
+    }
+    m_aWhiteListAntenna {
+     "Ruhanpera" "Muilunkyla"
+    }
+   }
+   SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 5000
+     }
+    }
+   }
+  }
+  coords 5621.704 66.871 3082.599
+  angleY -115.55
+ }
+ BaseRuhanpera {
+  components {
+   SCR_CampaignMilitaryBaseComponent "{5AFC974A70234D1C}" {
+    m_bIsControlPoint 1
+    m_sBaseName "Ruhanpera"
+    m_sBaseNameUpper "RUHANPERA"
+    m_sMapLocationName "Ruhanpera"
+    m_aWhiteList {
+     "Main Base Northeast" "Latvamuilu"
+    }
+    m_aWhiteListAntenna {
+     "Main Base Northeast" "Latvamuilu"
+    }
+   }
+   SCR_CoverageRadioComponent "{5C669673C2A82A2B}" {
+    Transceivers {
+     RelayTransceiver "{5C669673E8C94083}" {
+      "Transmitting Range" 5000
+     }
+    }
+   }
+  }
+  coords 6082.644 57.917 4997.645
+  angleY 124.45
+ }
+}

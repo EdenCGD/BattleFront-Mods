@@ -1,0 +1,5 @@
+SCR_MapEntity {
+ ID "657E8A541CBFEEB7"
+ Flags 2097155
+ "Satellite background image" "{7F104774EDAF7F57}Maps/RuhaSat.edds"
+}

@@ -1,0 +1,3 @@
+SubScene {
+ Parent "{65F6D6C5A74F9B65}Worlds/MapOverride.ent"
+}
