@@ -1,0 +1,427 @@
+{
+    "preset_name": "EU1_AAS_Modlist",
+    "preset_version": 2,
+    "preset_experimental_branch": false,
+    "mods": [
+        {
+            "modId": "595F2BF2F44836FB",
+            "name": "RHS - Status Quo",
+            "version": ""
+        },
+        {
+            "modId": "1337C0DE5DABBEEF",
+            "name": "RHS - Content Pack 01",
+            "version": ""
+        },
+        {
+            "modId": "BADC0DEDABBEDA5E",
+            "name": "RHS - Content Pack 02",
+            "version": ""
+        },
+        {
+            "modId": "60C4CE4888FF4621",
+            "name": "ACE Core",
+            "version": ""
+        },
+        {
+            "modId": "646D52AF8BB3FF15",
+            "name": "ACE Captives",
+            "version": ""
+        },
+        {
+            "modId": "64475DC102F2BDA4",
+            "name": "ACE Radio",
+            "version": ""
+        },
+        {
+            "modId": "62F802951CC8A37E",
+            "name": "ACE Tactical Periscope",
+            "version": ""
+        },
+        {
+            "modId": "61B7763A8AEB53B7",
+            "name": "ACE Explosives",
+            "version": ""
+        },
+        {
+            "modId": "61226BB18D360BDD",
+            "name": "ACE Tactical Ladder",
+            "version": ""
+        },
+        {
+            "modId": "611CB1D409001EB0",
+            "name": "ACE Magazine Repack",
+            "version": ""
+        },
+        {
+            "modId": "60C53A9372ED3964",
+            "name": "ACE Compass",
+            "version": ""
+        },
+        {
+            "modId": "60EAEA0389DB3CC2",
+            "name": "ACE Trenches",
+            "version": ""
+        },
+        {
+            "modId": "606C369BAC3F6CC3",
+            "name": "ACE Finger",
+            "version": ""
+        },
+        {
+            "modId": "5EB744C5F42E0800",
+            "name": "ACE Chopping",
+            "version": ""
+        },
+        {
+            "modId": "60E573C9B04CC408",
+            "name": "ACE Backblast",
+            "version": ""
+        },
+        {
+            "modId": "60C4C12DAE90727B",
+            "name": "ACE Medical",
+            "version": ""
+        },
+        {
+            "modId": "5965550F24A0C152",
+            "name": "Where Am I",
+            "version": ""
+        },
+        {
+            "modId": "5C9758250C8C56F1",
+            "name": "Bon Action Animations",
+            "version": ""
+        },
+        {
+            "modId": "62F0FA4B2F450775",
+            "name": "WCS Launchers to Arsenals",
+            "version": ""
+        },
+        {
+            "modId": "62BD130768A713EF",
+            "name": "Add AH6M to RU Depot",
+            "version": ""
+        },
+        {
+            "modId": "628F720BC527C143",
+            "name": "Rayzis Optics",
+            "version": ""
+        },
+        {
+            "modId": "5ABD0CB57F7E9EB1",
+            "name": "RIS Laser Attachments",
+            "version": ""
+        },
+        {
+            "modId": "645F08FA9E7CDEDE",
+            "name": "Attachment Framework",
+            "version": ""
+        },
+        {
+            "modId": "5C8AD2767D87626B",
+            "name": "Disable Friendly Fire",
+            "version": ""
+        },
+        {
+            "modId": "5AB301290317994A",
+            "name": "Bacon Suppressors",
+            "version": ""
+        },
+        {
+            "modId": "6578F09566333F19",
+            "name": "Unn Sandbags",
+            "version": ""
+        },
+        {
+            "modId": "5CA6BA2F63DE1174",
+            "name": "M17 Pistol",
+            "version": ""
+        },
+        {
+            "modId": "5B0D1E4380971EBD",
+            "name": "COALITION Squad Interface",
+            "version": "1.6.21"
+        },
+        {
+            "modId": "5E92F5A4A1B75A75",
+            "name": "Player Map Markers",
+            "version": ""
+        },
+        {
+            "modId": "645468B7696B4959",
+            "name": "RHStoVanillaArsenals",
+            "version": ""
+        },
+        {
+            "modId": "606B100247F5C709",
+            "name": "Bacon Loadout Editor",
+            "version": ""
+        },
+        {
+            "modId": "656EEEEE1BE15FCE",
+            "name": "NOX-Enhanced V2",
+            "version": ""
+        },
+        {
+            "modId": "5964E0B3BB7410CE",
+            "name": "Game Master Enhanced",
+            "version": ""
+        },
+        {
+            "modId": "5994AD5A9F33BE57",
+            "name": "Game Master FX",
+            "version": ""
+        },
+        {
+            "modId": "5EF5347644A2C501",
+            "name": "Bacon Weather",
+            "version": ""
+        },
+        {
+            "modId": "613D4634CBB276B2",
+            "name": "Disable Arma Vision",
+            "version": ""
+        },
+        {
+            "modId": "6487690835A62CE0",
+            "name": "Change Players Faction",
+            "version": ""
+        },
+        {
+            "modId": "64F10E068D5880A6",
+            "name": "GM Tools",
+            "version": ""
+        },
+        {
+            "modId": "5D0551624969C92E",
+            "name": "Zeliks Character",
+            "version": ""
+        },
+        {
+            "modId": "621CDA8F7320E2A5",
+            "name": "Deployable Spawn Ticket Fix",
+            "version": ""
+        },
+        {
+            "modId": "5F2944B7474F043F",
+            "name": "Disable Game Master Budgets",
+            "version": ""
+        },
+        {
+            "modId": "609E8CAD8A403EA6",
+            "name": "Map Marker Menu Fix",
+            "version": ""
+        },
+        {
+            "modId": "5D071A427403AB2C",
+            "name": "Chat Message Roles",
+            "version": ""
+        },
+        {
+            "modId": "64E1097AFEDF7CA6",
+            "name": "Server Banner Battlefront",
+            "version": ""
+        },
+        {
+            "modId": "64DF4982E27B0902",
+            "name": "LoadingScreenv2",
+            "version": ""
+        },
+        {
+            "modId": "5AAAC70D754245DD",
+            "name": "Server Admin Tools",
+            "version": ""
+        },
+        {
+            "modId": "62E0BA06F6046CC7",
+            "name": "Earplugs",
+            "version": ""
+        },
+        {
+            "modId": "5E1777F2E2196D9F",
+            "name": "Bourbons Flares and Signals",
+            "version": ""
+        },
+        {
+            "modId": "5AF6E0F075D79473",
+            "name": "M249 Scope Rails",
+            "version": ""
+        },
+        {
+            "modId": "651C0769032A0492",
+            "name": "Disable Attack Helicopters",
+            "version": ""
+        },
+        {
+            "modId": "64610AFB74AA9842",
+            "name": "WCS_Core",
+            "version": ""
+        },
+        {
+            "modId": "62CCD69DD17E4F2F",
+            "name": "AKI CORE",
+            "version": ""
+        },
+        {
+            "modId": "629B2BA37EFFD577",
+            "name": "WCS_Armaments",
+            "version": ""
+        },
+        {
+            "modId": "5D1880C4AD410C14",
+            "name": "M1 Abrams",
+            "version": ""
+        },
+        {
+            "modId": "5E389BB9F58B79A6",
+            "name": "SpaceCore",
+            "version": ""
+        },
+        {
+            "modId": "6273146ADFE8241D",
+            "name": "WCS_AH6M",
+            "version": ""
+        },
+        {
+            "modId": "62AE96D92179F7A0",
+            "name": "WCS_AH-6M_Upgrade",
+            "version": ""
+        },
+        {
+            "modId": "5C721177A220B42F",
+            "name": "Joint Light Tactical Vehicle",
+            "version": ""
+        },
+        {
+            "modId": "64900A5A31F5DCB5",
+            "name": "MRZR",
+            "version": ""
+        },
+        {
+            "modId": "615CC2D870A39838",
+            "name": "WCS_Arsenal",
+            "version": ""
+        },
+        {
+            "modId": "61BA4EB5C886D396",
+            "name": "WCS_VehicleLock",
+            "version": ""
+        },
+        {
+            "modId": "6146FAED5AAD7C55",
+            "name": "WCS_Helicopters",
+            "version": ""
+        },
+        {
+            "modId": "62A668F513428630",
+            "name": "WCS_Scopes",
+            "version": ""
+        },
+        {
+            "modId": "61C74A8B647617DA",
+            "name": "WCS_Attachments",
+            "version": ""
+        },
+        {
+            "modId": "615806DC6C57AF02",
+            "name": "WCS_NATO",
+            "version": ""
+        },
+        {
+            "modId": "615818DA7C0343FD",
+            "name": "WCS_RU",
+            "version": ""
+        },
+        {
+            "modId": "6122DD5CCF5C59E6",
+            "name": "WCS_AFKKick",
+            "version": ""
+        },
+        {
+            "modId": "63294BA2D9F0339B",
+            "name": "WCS_ZU-23-2",
+            "version": ""
+        },
+        {
+            "modId": "647E82E26FAA9233",
+            "name": "WCS_AdvanceAndSecure",
+            "version": ""
+        },
+        {
+            "modId": "614C00DA7F8765F6",
+            "name": "WCS_SpawnProtection",
+            "version": ""
+        },
+        {
+            "modId": "61E42AE6714A3CC2",
+            "name": "WCS_Armbands",
+            "version": ""
+        },
+        {
+            "modId": "6152CB0BD0684837",
+            "name": "WCS_Clothing",
+            "version": ""
+        },
+        {
+            "modId": "615A80027C5C9170",
+            "name": "WCS_Vehicles",
+            "version": ""
+        },
+        {
+            "modId": "61C4B48772550E0F",
+            "name": "WCS_TempFixes",
+            "version": ""
+        },
+        {
+            "modId": "65C66D937EC87E3E",
+            "name": "WCS_RUHA",
+            "version": ""
+        },
+        {
+            "modId": "653CB36244ADBE0F",
+            "name": "RUHA",
+            "version": ""
+        },
+        {
+            "modId": "65889679F8BEF51A",
+            "name": "Add M1A1 M1A2 to Factions",
+            "version": ""
+        },
+        {
+            "modId": "6445395A6BC1A51B",
+            "name": "M1A1 to US Vehicle Depot",
+            "version": ""
+        },
+        {
+            "modId": "64452C8A257453C1",
+            "name": "M2 Bradley Sergeant Unlock",
+            "version": ""
+        },
+        {
+            "modId": "63120AE07E6C0966",
+            "name": "M2 Bradley Fighting Vehicle",
+            "version": ""
+        },
+        {
+            "modId": "65F4F01294992C9B",
+            "name": "BattleFront Balance",
+            "version": ""
+        },
+        {
+            "modId": "65F1156E23F26462",
+            "name": "BattleFront Ruha",
+            "version": ""
+        },
+        {
+            "modId": "66091C6261B2A116",
+            "name": "Edens Clear Blacklist",
+            "version": ""
+        },
+        {
+            "modId": "66092954366560D8",
+            "name": "Edens DAH Fix",
+            "version": ""
+        }
+    ]
+}
