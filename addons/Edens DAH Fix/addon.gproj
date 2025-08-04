@@ -1,0 +1,8 @@
+GameProject {
+ ID "EdensDAHFix"
+ GUID "66092954366560D8"
+ TITLE "Edens DAH Fix"
+ Dependencies {
+  "651C0769032A0492" "58D0FB3206B6F859"
+ }
+}

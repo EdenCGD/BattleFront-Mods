@@ -1,0 +1,8 @@
+GameProject {
+ ID "EdensClearBlacklist"
+ GUID "66091C6261B2A116"
+ TITLE "Edens Clear Blacklist"
+ Dependencies {
+  "615CC2D870A39838" "58D0FB3206B6F859"
+ }
+}
